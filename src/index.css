@@ -24,11 +24,13 @@ main {
 .header--image {
     height: 100%;
     margin-right: 6px;
+    cursor: pointer;
 }
 
 .header--title {
     font-size: 1.25rem;
     margin-right: auto;
+    cursor: pointer;
 }
 
 .header--project {
@@ -64,6 +66,8 @@ main {
 /* Meme Inputs */
 .meme {
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .meme--image {
