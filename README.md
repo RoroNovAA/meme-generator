@@ -22,3 +22,7 @@ Once the app is up and running, you can:
 3. Generate the final meme image.
 
 Have fun creating and sharing your hilarious memes!
+
+## Live Demo
+
+Check out the live version of the Meme Generator App [here](https://roronovaa.github.io/meme-generator/). 
