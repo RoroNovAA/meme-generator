@@ -25,4 +25,4 @@ Have fun creating and sharing your hilarious memes!
 
 ## Live Demo
 
-Check out the live version of the Meme Generator App [here](https://roronovaa.github.io/meme-generator/). 
+Check out the live version of the Meme Generator App [here](https://ketansahugit.github.io/meme-generator/). 
